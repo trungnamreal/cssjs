@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdMDVsjFVSmB6zRxAKzWE2Y78I9yfBfRHCMh6offZW5aUpFiA/formResponse";
+	window.location="https://trungnamrealestate.blogspot.com/";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
